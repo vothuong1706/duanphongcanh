@@ -1,0 +1,11 @@
+.feature-item img {
+    width: 50px;
+    height: auto;
+}
+img, svg {
+    vertical-align: middle;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
